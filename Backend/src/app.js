@@ -59,5 +59,4 @@ module.exports = app
 
 
 
-//cd "C:\Users\GAURI\OneDrive\Documents\Backend project\Backend"
-//npm start
+
