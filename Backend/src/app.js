@@ -63,7 +63,3 @@ module.exports = app
 
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 91c09df17bae9425096a99c083e7367f56f7864b
