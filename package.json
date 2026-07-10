@@ -1,0 +1,13 @@
+{
+  "name": "insta-clone-root",
+  "version": "1.0.0",
+  "description": "Root orchestrator for Instagram Clone",
+  "scripts": {
+    "backend": "npm run dev --prefix Backend",
+    "frontend": "npm run dev --prefix frontend",
+    "dev": "npm run frontend"
+  },
+  "dependencies": {
+    "axios": "^1.18.1"
+  }
+}
